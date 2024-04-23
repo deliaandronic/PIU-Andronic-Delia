@@ -1,0 +1,14 @@
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\bin\Debug\net8.0\ProiectPIU.exe
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\bin\Debug\net8.0\ProiectPIU.deps.json
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\bin\Debug\net8.0\ProiectPIU.runtimeconfig.json
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\bin\Debug\net8.0\ProiectPIU.dll
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\bin\Debug\net8.0\ProiectPIU.pdb
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\ProiectPIU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\ProiectPIU.AssemblyInfoInputs.cache
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\ProiectPIU.AssemblyInfo.cs
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\ProiectPIU.csproj.CoreCompileInputs.cache
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\ProiectPIU.dll
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\refint\ProiectPIU.dll
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\ProiectPIU.pdb
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\ProiectPIU.genruntimeconfig.cache
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\ref\ProiectPIU.dll

@@ -1,0 +1,14 @@
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\bin\Debug\net8.0\InchirieriAuto.exe
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\bin\Debug\net8.0\InchirieriAuto.deps.json
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\bin\Debug\net8.0\InchirieriAuto.runtimeconfig.json
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\bin\Debug\net8.0\InchirieriAuto.dll
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\bin\Debug\net8.0\InchirieriAuto.pdb
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\InchirieriAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\InchirieriAuto.AssemblyInfoInputs.cache
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\InchirieriAuto.AssemblyInfo.cs
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\InchirieriAuto.csproj.CoreCompileInputs.cache
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\InchirieriAuto.dll
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\refint\InchirieriAuto.dll
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\InchirieriAuto.pdb
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\InchirieriAuto.genruntimeconfig.cache
+C:\Users\birgo\OneDrive\Desktop\delia piu\ProiectPIU\obj\Debug\net8.0\ref\InchirieriAuto.dll
